@@ -11,7 +11,7 @@ retrofit = "3.0.0"
 guava = "33.5.0-jre"
 apksig = "9.0.1"
 # TODO: Adjust once https://github.com/google/protobuf-gradle-plugin/pull/797 is merged.
-protobuf = "master-SNAPSHOT"
+protobuf = "0.10.0"
 protoc = "4.34.1"
 shadow = "9.4.0"
 hiddenapibypass = "6.1"
